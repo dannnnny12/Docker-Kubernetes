@@ -2,6 +2,7 @@ This is a practice of K8S & Container on Docker for Windows
 ![image](https://user-images.githubusercontent.com/49478754/209748471-aa18c5e2-cec8-4cd5-959c-b17d9c5d66b3.png)
 
  Pods created on deployment node.
+ 
  ![pods_deployed_finished](https://user-images.githubusercontent.com/49478754/211059864-a3a4d0fb-6fce-42c3-a74f-5adf2b6c51f5.JPG)
 
  Expose nginx web services on K8S cluster
