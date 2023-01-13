@@ -7,7 +7,7 @@ This is a practice of K8S & Container on Docker for Windows
 
  Expose nginx web services on K8S cluster
  ![expose_nginx](https://user-images.githubusercontent.com/49478754/211061862-b4225f0f-d317-4a22-a62a-b2a8c060cb68.JPG)
-
+ 
  
 # Featured Repos
 
