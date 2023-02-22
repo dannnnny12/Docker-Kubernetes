@@ -79,7 +79,7 @@ See [Hosting ASP.NET Core Images with Docker over HTTPS](https://github.com/dotn
 
 * [dotnet/framework](https://hub.docker.com/_/microsoft-dotnet-framework/): .NET Framework, ASP.NET and WCF
 * [dotnet/framework/samples](https://hub.docker.com/_/microsoft-dotnet-framework-samples/): .NET Framework, ASP.NET and WCF Samples
-
+ 
 # Support
 
 ## Lifecycle
